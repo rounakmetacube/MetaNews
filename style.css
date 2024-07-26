@@ -96,3 +96,8 @@ header hr
     text-decoration: underline;
     padding-top: 5px;
 }
+
+.blog-post
+{
+    padding-bottom: 20px;
+}
