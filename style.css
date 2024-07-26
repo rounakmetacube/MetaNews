@@ -39,7 +39,12 @@ header hr
 {
     font-weight: 500;
     font-size: 17px;
+    color: black;
+}
 
+.newsGenre a:hover
+{
+    color: rgb(92, 92, 92);
 }
 
 .heroNewsTitle
